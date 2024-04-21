@@ -1,3 +1,15 @@
-body {background-color: rgb(205, 230, 233);}
-img {border-radius: 80%;}
-div#header {text-align: center;}
+body {
+    background-color: rgb(205, 230, 233);
+}
+
+img {
+    border-radius: 80%;
+}
+
+div#header {
+    text-align: right;
+}
+
+div#info {
+    text-align: right;
+}
